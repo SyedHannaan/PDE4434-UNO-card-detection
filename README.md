@@ -58,6 +58,10 @@ Image Preprocessing and Prediction: The preprocess_image function is defined to 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+DEMO VIDEO LINK : https://drive.google.com/drive/folders/1-NnoWEfIa6STcEVirvuXa7-xDeomziyo
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 REFERENCES:
 
 1.Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767.
